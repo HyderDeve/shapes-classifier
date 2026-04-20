@@ -109,6 +109,8 @@ shapes-classifier/
 ├── shapes_classifier_2307-BSCS009.keras  # Saved trained model
 ├── requirements.txt                   # Python dependencies
 ├── env/                               # Python virtual environment (not needed for deployment)
+├── sample/
+│   └── Pentagons.jpg                  # Example image for dataset building
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 # 1. Load the original image
-image = cv2.imread('Pentagons.jpg')
+image = cv2.imread('sample/Pentagons.jpg') # change this path according to the location of the image you want to process
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # 2. Thresholding to find the shapes
