@@ -2,7 +2,7 @@
 
 A neural network-based image classifier that identifies five geometric shapes from grayscale 28×28 images. Built with TensorFlow/Keras, this project demonstrates a complete machine learning pipeline — from dataset loading and preprocessing to model training, evaluation, and saving.
 
-**Student ID:** 2307BSCS009
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HyderDeve/shapes-classifier/blob/main/whole_code.ipynb)
 
 ---
 
